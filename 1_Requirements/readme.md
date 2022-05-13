@@ -35,4 +35,5 @@
 |L1|Turn ON |HR01|IMPLEMENTED|
 |L2| Turn OFF | H3|IMPLEMENTED|
 |L3|Long Press mode speed control | H3 | IMPLEMENTED |
-
+Refernces have taken from google and implemented by me for some part of coding and information
+-->
