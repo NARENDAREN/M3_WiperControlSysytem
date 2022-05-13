@@ -24,8 +24,8 @@
 | H1 |Push Button ON or OFF | Techincal | IMPLEMENTED | 
 | H2 | High level processing| Techincal | IMPLEMENTED |
 | H3 | LED's Blinking | Techincal | IMPLEMENTED |
-| H4 | Blinking speed of LED | IMPLEMENTED |
-| H5 | LED Turned at current spot | IMPLEMENTED |
+| H4 | Blinking speed of LED | Techinal | IMPLEMENTED |
+| H5 | LED Turned at current spot | Technical | IMPLEMENTED |
 
 
 ### Low level Requirements
