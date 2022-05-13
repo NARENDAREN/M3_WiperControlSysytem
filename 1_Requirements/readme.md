@@ -18,3 +18,21 @@
 ## How
 *   By displaying and liting the LED in STM32F40 as a model that potraying the working of wiper system
 
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| H1 |Push Button ON or OFF | Techincal | IMPLEMENTED | 
+| H2 | High level processing| Techincal | IMPLEMENTED |
+| H3 | LED's Blinking | Techincal | IMPLEMENTED |
+| H4 | Blinking speed of LED | IMPLEMENTED |
+| H5 | LED Turned at current spot | IMPLEMENTED |
+
+
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|L1|Turn ON |HR01|IMPLEMENTED|
+|L2| Turn OFF | H3|IMPLEMENTED|
+|L3|Long Press mode speed control | H3 | IMPLEMENTED |
+
