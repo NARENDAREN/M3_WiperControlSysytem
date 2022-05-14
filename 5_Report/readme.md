@@ -62,11 +62,18 @@ The TRW system, which is found on many General Motors cars, including all Cadill
 
 ## ADVANTAGES
   Low cost automation project. 
+ 
   Free from wear adjustment. 
+ 
   Less power consumption. 
+ 
   Operating principle is very easy Installation is simple. 
+ 
   It  is  possible to  operate  manually/automatically  by providing On/Off switch 
+ 
+ 
   Sensor cost is very low due to the use of conductive sensor
+ 
 ## DISADVANTAGES
 * Broken wiper control
 * Burned out fuse
@@ -75,6 +82,7 @@ The TRW system, which is found on many General Motors cars, including all Cadill
 * snow and mist form
 
 causes for failure of windsheild and is dangerous for ride during rain
+
 ## APPLICATIONS
 
 -> It is used in four wheeler  
