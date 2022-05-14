@@ -61,8 +61,26 @@ The electronics and software in the sensor turn on the wipers when the amount of
 The TRW system, which is found on many General Motors cars, including all Cadillac models, can also be overridden or turned off so the car can be washed.
 
 ## ADVANTAGES
+  Low cost automation project. 
+  Free from wear adjustment. 
+  Less power consumption. 
+  Operating principle is very easy Installation is simple. 
+  It  is  possible to  operate  manually/automatically  by providing On/Off switch 
+  Sensor cost is very low due to the use of conductive sensor
 ## DISADVANTAGES
+* Broken wiper control
+* Burned out fuse
+* Failed wiper motor
+* Damged wiper blades
+* snow and mist form
+
+causes for failure of windsheild and is dangerous for ride during rain
 ## APPLICATIONS
+
+-> It is used in four wheeler  
+-> It is used in aircraft 
+-> It is used in train 
+-> It is used in six wheeler 
 
 ## STM32F407 Discovery Board
 <img width="245" alt="STM" src="https://user-images.githubusercontent.com/101088188/168424317-9b16f25d-eae6-437b-ac89-c1ce078359c6.png">
