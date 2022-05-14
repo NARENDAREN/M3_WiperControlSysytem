@@ -20,6 +20,9 @@ Wiper arm is the connecting link between wiper linkage and wiper blade.
 
 ### SPEED MODES
 Most wipers have a low and a high speed, as well as an intermittent setting. When the wipers are on low and high speed, the motor runs continuously. But in the intermittent setting, the wipers stop momentarily between each wipe. There are many different kinds of switches for wipers. Some cars have just one intermittent speed, others have 10 discrete settings and still others have a sliding scale that can be set for almost any time interval.
+
+
+
 <img width="296" alt="WIPER SWITCH" src="https://user-images.githubusercontent.com/101088188/168420299-9f8bbd50-62c5-4167-9cc7-b5cb2558498b.png">
 
 ### WORKING
@@ -31,8 +34,9 @@ A combination electric motor and worm gear reduction provides power to the wiper
 A neat linkage converts the rotational output of the motor into the back-and-forth motion of the wipers.
 
 ## RECENT DEVELOPMENT
+
 ### Rain sensing wiper
-Rain-sensing Wipers
+
 
 In the past, automakers have tried to either eliminate the wipers or to control their speed automatically. Some of the schemes involved detecting the vibrations caused by individual raindrops hitting the windshield, applying special coatings that did not allow drops to form, or even ultrasonically vibrating the windshield to break up the droplets so they don't need to be wiped at all. But these systems were plagued by problems and either never made it to production or were quickly axed because they annoyed more drivers than they pleased.
 
