@@ -9,9 +9,9 @@
 
 
  Wiper mechanism comprises of the following major components:
-**Wiper motor: 
+* Wiper motor: 
 It drives the linkages of wiper mechanism which ultimately makes the wiper blade to move on the windscreen.
-**Linkage: 
+* Linkage: 
 Linkage performs two major functions. Firstly, it holds the wiper arm and blade in position and maintains proper contact between the blade and the windscreen. Secondly, it converts the rotary motion obtained from the motor into suitable form. And to do this, it employs a worm gear. Worm gear reduces the speed of output shaft of motor and converts it into suitable torque required to operate wiper arm.
-**Wiper arm: 
+*Wiper arm: 
 Wiper arm is the connecting link between wiper linkage and wiper blade.
