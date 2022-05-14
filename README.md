@@ -13,5 +13,9 @@
 It drives the linkages of wiper mechanism which ultimately makes the wiper blade to move on the windscreen.
 * Linkage: 
 Linkage performs two major functions. Firstly, it holds the wiper arm and blade in position and maintains proper contact between the blade and the windscreen. Secondly, it converts the rotary motion obtained from the motor into suitable form. And to do this, it employs a worm gear. Worm gear reduces the speed of output shaft of motor and converts it into suitable torque required to operate wiper arm.
-*Wiper arm: 
+* Wiper arm: 
 Wiper arm is the connecting link between wiper linkage and wiper blade.
+* Wiper blade: 
+ Blade is a rubber part that comes in contact with glass. It also has a metal clamping attached to it which aids in maintaining uniform pressure on the blade.
+
+
