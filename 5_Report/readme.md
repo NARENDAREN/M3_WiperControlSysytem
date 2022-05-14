@@ -86,8 +86,11 @@ causes for failure of windsheild and is dangerous for ride during rain
 ## APPLICATIONS
 
 -> It is used in four wheeler  
+
 -> It is used in aircraft 
+
 -> It is used in train 
+
 -> It is used in six wheeler 
 
 ## STM32F407 Discovery Board
